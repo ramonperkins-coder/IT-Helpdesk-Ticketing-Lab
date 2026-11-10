@@ -1,0 +1,14 @@
+timestamp,event_id,user_principal_name,source_ip,device_label,application,result,error_code
+2026-11-10T08:02:00-06:00,EVT-001,sarah.mitchell@example.invalid,203.0.113.45,managed-laptop-01,Outlook,Failure,AADSTS50126
+2026-11-10T08:03:00-06:00,EVT-002,sarah.mitchell@example.invalid,203.0.113.45,managed-laptop-01,Teams,Failure,AADSTS50126
+2026-11-10T08:04:00-06:00,EVT-003,sarah.mitchell@example.invalid,203.0.113.45,managed-laptop-01,Outlook,Failure,AADSTS50126
+2026-11-10T08:04:30-06:00,EVT-004,sarah.mitchell@example.invalid,203.0.113.45,managed-laptop-01,Teams,Failure,AADSTS50126
+2026-11-10T08:05:00-06:00,EVT-005,sarah.mitchell@example.invalid,203.0.113.45,managed-laptop-01,Outlook,Failure,AADSTS50126
+2026-11-10T08:05:20-06:00,EVT-006,sarah.mitchell@example.invalid,203.0.113.45,managed-laptop-01,Teams,Failure,AADSTS50126
+2026-11-10T08:05:40-06:00,EVT-007,sarah.mitchell@example.invalid,203.0.113.45,managed-laptop-01,Outlook,Failure,AADSTS50126
+2026-11-10T08:05:55-06:00,EVT-008,sarah.mitchell@example.invalid,203.0.113.45,managed-laptop-01,Teams,Failure,AADSTS50126
+2026-11-10T08:06:00-06:00,EVT-009,sarah.mitchell@example.invalid,198.51.100.27,unrecognized-device,Browser sign-in,Failure,AADSTS50126
+2026-11-10T08:06:15-06:00,EVT-010,sarah.mitchell@example.invalid,198.51.100.27,unrecognized-device,Browser sign-in,Failure,AADSTS50126
+2026-11-10T08:06:30-06:00,EVT-011,sarah.mitchell@example.invalid,198.51.100.27,unrecognized-device,Browser sign-in,Failure,AADSTS50126
+2026-11-10T08:06:45-06:00,EVT-012,sarah.mitchell@example.invalid,198.51.100.27,unrecognized-device,Browser sign-in,Failure,AADSTS50126
+2026-11-10T08:07:00-06:00,EVT-013,sarah.mitchell@example.invalid,198.51.100.27,unrecognized-device,Browser sign-in,Blocked,AADSTS50053
